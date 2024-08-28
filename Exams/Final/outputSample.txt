@@ -1,0 +1,15 @@
+Loaded 5 data points from dataset A
+Loaded 5 data points from dataset B
+Temperature Reports (dataset A)
+-==-==-==-==-==-==-==-==-==-==-==-
+Minimum:  -1.97
+Mean:     49.49
+Maximum:  87.50
+Date Reports (dataset A)
+-==-==-==-==-==-==-==-==-==-==-==-
+Earliest:     -1.97 (2017-12-01T01:00)
+Most recent   87.50 (2022-11-01T04:00)
+Inconsistent/Missing Data Reports
+-==-==-==-==-==-==-==-==-==-==-==-
+Inconsistent Data:  -1.97 vs  -1.96 (2017-12-01T01:00)
+Missing Data:       87.50 (2022-11-01T04:00)
