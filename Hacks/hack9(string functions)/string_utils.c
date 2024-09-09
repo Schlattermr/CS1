@@ -97,17 +97,6 @@ char **lengthSplit(const char *s, int newSize) {
     }
 
     for(int i=0; i<numOfSplits; i++) {
-        // if(i == n) {
-        //     for(int j=0; j<=lenOfLastSplit; j++) {
-        //         if(j == lenOfLastSplit) {
-        //             buffer[j] = '\0';
-        //             strcpy(split[i], buffer);
-        //             strcpy(buffer, "");
-        //         }
-        //         buffer[j] = copy[counter];
-        //         counter++;
-        //     }
-        // }
         for(int j=0; j<=charsPerSplit; j++) {
             if(j == charsPerSplit || counter == fullSize) {
                 buffer[j] = '\0';
